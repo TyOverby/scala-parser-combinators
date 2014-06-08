@@ -4,9 +4,9 @@ name                       := "scala-parser-combinators"
 
 version                    := "1.0.0-SNAPSHOT"
 
-scalaVersion               := "2.11.0-M8"
+scalaVersion               := "2.11.0"
 
-snapshotScalaBinaryVersion := "2.11.0-M8"
+snapshotScalaBinaryVersion := "2.11.0"
 
 // important!! must come here (why?)
 scalaModuleOsgiSettings
